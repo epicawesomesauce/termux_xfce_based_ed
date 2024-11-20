@@ -1,5 +1,7 @@
 # Termux_XFCE
 
+this is my custom version of termux xfce that is based and awesome unlike the original
+
 Sets up a termux XFCE desktop and a Debian proot install. This setup uses Termux-X11, the termux-x11 server will be installed and you will be prompted to allow termux to install the Android APK.
 
 You only need to pick your username and follow the prompts. This will take roughly 4GB of storage space. Please note, this can be a lengthy process. Keep in mind that as you install applications, they will consume more storage space. 
@@ -11,23 +13,8 @@ Please read the whole Readme for more information about this setup.
 To install run this command in termux
 
 ```
-curl -sL https://raw.githubusercontent.com/phoenixbyrd/Termux_XFCE/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -sL https://raw.githubusercontent.com/epicawesomesauce/termux_xfce_based_ed/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 ```
-&nbsp;
-
-
-Join the Discord for any questions, help, suggestions, etc. [https://discord.gg/pNMVrZu5dm](https://discord.gg/pNMVrZu5dm)  
-
-&nbsp;
-
-![Desktop Screenshot](desktop.png)
-  
-  
-# Use Case
-  
-This is is how I personally use Termux on my Galaxy Fold 3, script was created mainly for personal use but also for others if they wanted to try out my setup. This is my daily driver used with a 15 inch Lepow portable monitor and bluetooth keyboard and mouse. This is mainly intended to be used as a PC/Laptop replacement connected to a monitor, keyboard and mouse and used as you would with any PC/Laptop. I run this on my Samsung Galaxy Fold 3.
-
-![My Samsung Galaxy Fold 3 - Dex Setup](desk.jpg)  
 
 &nbsp;
 
